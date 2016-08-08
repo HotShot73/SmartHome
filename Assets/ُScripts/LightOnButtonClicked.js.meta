@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: a8bee48ef3b4bed449a57975c864c301
+timeCreated: 1438065738
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - light1a: {instanceID: 0}
+  - light1b: {instanceID: 0}
+  - light2a: {instanceID: 0}
+  - light2b: {instanceID: 0}
+  - lightsound: {instanceID: 0}
+  - text2: {instanceID: 0}
+  - text2outline: {instanceID: 0}
+  - text1: {instanceID: 0}
+  - text1outline: {instanceID: 0}
+  - FanOnSwitch: {instanceID: 0}
+  - Fansound: {instanceID: 0}
+  - roomcollider: {instanceID: 0}
+  - player: {instanceID: 0}
+  - ConflictText: {instanceID: 0}
+  - ConflictSound: {instanceID: 0}
+  - FirstPerson: {fileID: 100002, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
+  - ConflictImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

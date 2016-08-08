@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ُScripts\airconditionerOnButton.js">
+    <Files>
+      <File FileName="Assets\ُScripts\noteCS.cs" Line="6" Column="1" />
+      <File FileName="Assets\ُScripts\airconditionerOnButton.js" Line="65" Column="26" />
+      <File FileName="Assets\ُScripts\Start.js" Line="35" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
